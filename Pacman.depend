@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1553905160 source:/home/albanez/Documents/C Projects/Pacman/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"draw.h"
+	"map.h"
+	"controls.h"
+	"pacman.h"
+	"ghost.h"
+	"collisionIntersection.h"
+
+1552204236 source:/home/albanez/Documents/C Projects/Pacman/draw.c
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"map.h"
+	"pacman.h"
+	"ghost.h"
+	"character.h"
+
+1551915950 /home/albanez/Documents/C Projects/Pacman/draw.h
+
+1552098963 /home/albanez/Documents/C Projects/Pacman/map.h
+
+1552180410 source:/home/albanez/Documents/C Projects/Pacman/map.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	"map.h"
+
+1552201067 /home/albanez/Documents/C Projects/Pacman/pacman.h
+
+1552201651 source:/home/albanez/Documents/C Projects/Pacman/pacman.c
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<SDL2/SDL.h>
+	"pacman.h"
+	"map.h"
+	"controls.h"
+	"character.h"
+
+1551921719 source:/home/albanez/Documents/C Projects/Pacman/controls.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	"controls.h"
+
+1552079905 /home/albanez/Documents/C Projects/Pacman/controls.h
+	<stdbool.h>
+
+1552180826 /home/albanez/Documents/C Projects/Pacman/character.h
+
+1552289713 source:/home/albanez/Documents/C Projects/Pacman/ghosts.c
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	"character.h"
+	"controls.h"
+	"map.h"
+	"utils.h"
+
+1552202088 source:/home/albanez/Documents/C Projects/Pacman/collisionIntersection.c
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
+1552202588 /home/albanez/Documents/C Projects/Pacman/ghost.h
+
+1552183360 source:/home/albanez/Documents/C Projects/Pacman/ghostAI.c
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	"map.h"
+	"character.h"
+
+1552202088 /home/albanez/Documents/C Projects/Pacman/collisionIntersection.h
+
+1552181977 /home/albanez/Documents/C Projects/Pacman/IA.h
+
+1552197630 source:/home/albanez/Documents/C Projects/Pacman/utils.c
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1552197630 /home/albanez/Documents/C Projects/Pacman/utils.h
+
