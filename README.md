@@ -1,8 +1,8 @@
 # Pacman
-Pacman game made in C language
+Pacman game made in C language (lib SDL2)
 
-This game was made only for study e fun
+This game was made only for study and fun
 
 ![Pacman Gameplay](pacman_gameplay.png)
 
-programming of ghosts are incomplete
+Obs: programming of ghosts are incomplete
